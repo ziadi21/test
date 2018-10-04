@@ -1,0 +1,94 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: white;
+}
+
+.navbar{
+    color: white;
+}
+
+#navbarNav{
+ justify-content: flex-end;
+ display:flex;
+
+}
+
+.text-size{
+    color:#de0336;
+}
+
+.text {
+    /*font-family: 'Barlow Condensed', sans-serif;*/
+     font-family:  'Kanit', sans-serif;
+     color:#de0336;
+     font-size: 40px;
+}
+
+.nav{
+    background-color: #494949;
+}
+
+.nav-link {
+    color: #abada7;
+    font-family:  'Kanit', sans-serif;
+}
+
+.img1{
+    padding: 5px;
+}
+
+.img2 {
+    padding: 5px;
+}
+
+.img3 {
+    padding: 5px;
+}
+
+ h2{
+     color: #49494b;
+     font-size: 20px;
+
+ }
+
+ .btn{
+     font-family: 'Bangers', cursive;
+     font-family: 'Timmana', sans-serif;
+     background-color: #2da745;
+     color: white;
+ }
+ .card {   
+     display: inline;
+ }
+
+ .fa-calendar-alt {
+     color: #5ea32a;
+ }
+
+.fa-user{
+    color: #5ea32a;
+}
+
+.Container{
+    display: flex;
+    
+}
+.spn{
+    color: #96c462;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Write all your CSS here! */
